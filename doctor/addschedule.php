@@ -303,7 +303,7 @@ alert('Added fail. Please try again.');
                                     <th><input type="text" class="form-control" placeholder="scheduleId" disabled></th>
                                     <th><input type="text" class="form-control" placeholder="scheduleDate" disabled></th>
                                     <th><input type="text" class="form-control" placeholder="scheduleDay" disabled></th>
-                                    <th><input type="text" class="form-control" placeholder="startTime." disabled></th>
+                                    <th><input type="text" class="form-control" placeholder="startTime" disabled></th>
                                     <th><input type="text" class="form-control" placeholder="endTime" disabled></th>
                                     <th><input type="text" class="form-control" placeholder="bookAvail" disabled></th>
                                 </tr>
