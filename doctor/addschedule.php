@@ -259,7 +259,7 @@ alert('Added fail. Please try again.');
                                      available
                                     </option>
                                     <option value="notavail">
-                                     notavail
+                                     not available
                                     </option>
                                    </select>
                                   </div>
